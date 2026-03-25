@@ -56,6 +56,6 @@ jupyter notebook
 ## Author
 
 Chillapalli Naga Tejaswini
-Email: [chillapallinagatejaswini@gmail.com](mailto:chillapallinagatejaswini@gmail.com)
-LinkedIn: https://linkedin.com/in/Chillapalli-Naga-Tejaswini
-GitHub: https://github.com/Tejaswini-993
+Email:chillapallinagatejaswini@gmail.com
+LinkedIn:https://www.linkedin.com/in/chillapalli-naga-tejaswini-629467333/
+GitHub:https://github.com/Tejaswini-993
